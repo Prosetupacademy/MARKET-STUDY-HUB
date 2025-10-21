@@ -93,7 +93,9 @@
     <p>Discover how professionals identify setups, manage risk, and plan trades.</p>
     <p>🎯 <span class="highlight">Get Free Daily Educational Examples</span> showing how entry, stop loss & take profit levels are structured.</p>
     <p>💡 Join a community of learners improving their understanding of Forex markets — 100% free.</p>
-    <a class="btn" href="https://t.me/+Q8A9-YaczKBiOTFk" target="_blank">Explore Free Lessons</a>
+  <a class="btn" href="https://t.me/+Q8A9-YaczKBiOTFk" target="_blank" onclick="fbq('track', 'Lead');">
+  Explore Free Lessons
+</a>
     <p class="disclaimer">
       📘 For educational purposes only. The content shared does not constitute financial advice or investment recommendations.
     </p>
