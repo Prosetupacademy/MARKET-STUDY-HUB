@@ -14,6 +14,7 @@
       min-height: 100vh;
       margin: 0;
     }
+
     .card {
       background: white;
       border-radius: 25px;
@@ -22,24 +23,29 @@
       padding: 30px 20px;
       text-align: center;
     }
+
     .card img {
       width: 120px;
       height: 120px;
       margin-bottom: 15px;
     }
+
     h2 {
       margin-bottom: 15px;
       color: #222;
     }
+
     p {
       color: #555;
       margin: 10px 0;
       line-height: 1.6;
     }
+
     .highlight {
       font-weight: bold;
       color: #000;
     }
+
     .btn {
       display: inline-block;
       margin-top: 25px;
@@ -52,9 +58,11 @@
       text-decoration: none;
       transition: 0.3s ease;
     }
+
     .btn:hover {
       background: #218838;
     }
+
     .disclaimer {
       font-size: 12px;
       color: #777;
