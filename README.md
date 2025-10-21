@@ -1,9 +1,30 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Market Study Hub</title>
+
+  <!-- Meta Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s){
+      if(f.fbq)return;
+      n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;
+      n.push=n; n.loaded=!0; n.version='2.0';
+      n.queue=[]; t=b.createElement(e); t.async=!0;
+      t.src=v; s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)
+    }(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1493698618370413');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1493698618370413&ev=PageView&noscript=1"/>
+  </noscript>
+  <!-- End Meta Pixel Code -->
+
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -22,12 +43,6 @@
       max-width: 350px;
       padding: 30px 20px;
       text-align: center;
-    }
-
-    .card img {
-      width: 120px;
-      height: 120px;
-      margin-bottom: 15px;
     }
 
     h2 {
@@ -77,7 +92,7 @@
     <p>📊 <span class="highlight">Learn How Market Analysis Works</span></p>
     <p>Discover how professionals identify setups, manage risk, and plan trades.</p>
     <p>🎯 <span class="highlight">Get Free Daily Educational Examples</span> showing how entry, stop loss & take profit levels are structured.</p>
-    <p>💡  A Community Of Learners improving their understanding of Forex markets — 100% free.</p>
+    <p>💡 Join a community of learners improving their understanding of Forex markets — 100% free.</p>
     <a class="btn" href="https://t.me/+Q8A9-YaczKBiOTFk" target="_blank">Explore Free Lessons</a>
     <p class="disclaimer">
       📘 For educational purposes only. The content shared does not constitute financial advice or investment recommendations.
