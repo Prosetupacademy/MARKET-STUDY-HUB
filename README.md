@@ -4,6 +4,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Market Study Hub</title>
 
+  <!-- 🔹 Basic Meta Info -->
+  <meta name="description" content="Learn Forex market structure, risk management, and analysis techniques with Market Study Hub.">
+  <meta name="keywords" content="forex education, trading lessons, market analysis, risk management, forex learning, Market Study Hub">
+
+  <!-- 🔹 Facebook / Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Market Study Hub | Learn Forex Like a Pro">
+  <meta property="og:description" content="Join Market Study Hub and explore free educational lessons about Forex market analysis and strategies.">
+  <meta property="og:url" content="https://prosetupacademy.github.io/MARKET-STUDY-HUB/">
+  <meta property="og:image" content="https://prosetupacademy.github.io/MARKET-STUDY-HUB/preview.jpg">
+
   <!-- Meta Pixel Code -->
   <script>
     !function(f,b,e,v,n,t,s){
@@ -93,9 +104,9 @@
     <p>Discover how professionals identify setups, manage risk, and plan trades.</p>
     <p>🎯 <span class="highlight">Get Free Daily Educational Examples</span> showing how entry, stop loss & take profit levels are structured.</p>
     <p>💡 Join a community of learners improving their understanding of Forex markets — 100% free.</p>
-  <a class="btn" href="https://t.me/+bWpfDC7rZugwNWE0" target="_blank" onclick="fbq('track', 'Lead');">
-  Explore Free Lessons
-</a>
+    <a class="btn" href="https://t.me/+bWpfDC7rZugwNWE0" target="_blank" onclick="fbq('track', 'Lead');">
+      Explore Free Lessons
+    </a>
     <p class="disclaimer">
       📘 For educational purposes only. The content shared does not constitute financial advice or investment recommendations.
     </p>
