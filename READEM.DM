@@ -5,17 +5,17 @@
   <title>Market Study Hub</title>
 
   <!-- 🔹 Basic Meta Info -->
-  <meta name="description" content="Learn Forex market structure, risk management, and analysis techniques with Market Study Hub.">
-  <meta name="keywords" content="forex education, trading lessons, market analysis, risk management, forex learning, Market Study Hub">
+  <meta name="description" content="Market Study Hub offers free educational content about Forex market analysis, structure, and strategy development — not investment or financial advice.">
+  <meta name="keywords" content="forex education, forex learning, trading lessons, risk management, market study, analysis, Market Study Hub">
 
   <!-- 🔹 Facebook / Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:title" content="Market Study Hub | Learn Forex Like a Pro">
-  <meta property="og:description" content="Join Market Study Hub and explore free educational lessons about Forex market analysis and strategies.">
+  <meta property="og:description" content="Explore Market Study Hub — your free source for learning Forex analysis, risk management, and trading structure. Educational content only, no financial advice.">
   <meta property="og:url" content="https://prosetupacademy.github.io/MARKET-STUDY-HUB/">
   <meta property="og:image" content="https://prosetupacademy.github.io/MARKET-STUDY-HUB/preview.jpg">
 
-  <!-- Meta Pixel Code -->
+  <!-- 🔹 Meta Pixel Code -->
   <script>
     !function(f,b,e,v,n,t,s){
       if(f.fbq)return;
@@ -51,8 +51,8 @@
       background: white;
       border-radius: 25px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-      max-width: 350px;
-      padding: 30px 20px;
+      max-width: 360px;
+      padding: 30px 22px;
       text-align: center;
     }
 
@@ -101,14 +101,16 @@
   <div class="card">
     <h2>Market Study Hub</h2>
     <p>📊 <span class="highlight">Learn How Market Analysis Works</span></p>
-    <p>Discover how professionals identify setups, manage risk, and plan trades.</p>
-    <p>🎯 <span class="highlight">Get Free Daily Educational Examples</span> showing how entry, stop loss & take profit levels are structured.</p>
-    <p>💡 Join a community of learners improving their understanding of Forex markets — 100% free.</p>
+    <p>Discover how professionals identify setups, manage risk, and plan trades through practical examples.</p>
+    <p>🎯 <span class="highlight">Access Free Daily Educational Lessons</span> explaining key market concepts step by step.</p>
+    <p>💡 Join a growing community of learners improving their understanding of Forex and market behavior — 100% free.</p>
+    
     <a class="btn" href="https://t.me/+bWpfDC7rZugwNWE0" target="_blank" onclick="fbq('track', 'Lead');">
       Explore Free Lessons
     </a>
+
     <p class="disclaimer">
-      📘 For educational purposes only. The content shared does not constitute financial advice or investment recommendations.
+      📘 Educational content only. Market Study Hub does not offer financial advice, investment guidance, or trading services.
     </p>
   </div>
 </body>
