@@ -2,29 +2,30 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Market Study Hub</title>
+  <title>Chart Learning Hub</title>
 
-  <!-- 🔹 Basic Meta Info -->
-  <meta name="description" content="Market Study Hub offers free educational content about Forex market analysis, structure, and strategy development — not investment or financial advice.">
-  <meta name="keywords" content="forex education, forex learning, trading lessons, risk management, market study, analysis, Market Study Hub">
+  <!-- ✅ Safe Meta Info -->
+  <meta name="description" content="Chart Learning Hub offers free educational materials about chart reading, pattern recognition, and decision-making — 100% educational, not financial advice.">
+  <meta name="keywords" content="education, chart learning, pattern recognition, decision making, learning hub, analysis examples">
 
-  <!-- 🔹 Facebook / Open Graph -->
+  <!-- ✅ Open Graph (Facebook / Instagram Preview) -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Market Study Hub | Learn Forex Like a Pro">
-  <meta property="og:description" content="Explore Market Study Hub — your free source for learning Forex analysis, risk management, and trading structure. Educational content only, no financial advice.">
-  <meta property="og:url" content="https://prosetupacademy.github.io/MARKET-STUDY-HUB/">
-  <meta property="og:image" content="https://prosetupacademy.github.io/MARKET-STUDY-HUB/preview.jpg">
+  <meta property="og:title" content="Chart Learning Hub | Free Educational Lessons">
+  <meta property="og:description" content="Join Chart Learning Hub to explore free examples that help you understand charts and structure-based decision making. No financial advice.">
+  <meta property="og:url" content="https://prosetupacademy.github.io/chart-learning-hub/">
+  <meta property="og:image" content="https://prosetupacademy.github.io/chart-learning-hub/preview.jpg">
 
-  <!-- 🔹 Meta Pixel Code -->
+  <!-- ✅ Meta Pixel Code -->
   <script>
     !function(f,b,e,v,n,t,s){
       if(f.fbq)return;
-      n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
       if(!f._fbq)f._fbq=n;
       n.push=n; n.loaded=!0; n.version='2.0';
-      n.queue=[]; t=b.createElement(e); t.async=!0;
-      t.src=v; s=b.getElementsByTagName(e)[0];
+      n.queue=[];
+      t=b.createElement(e); t.async=!0;
+      t.src=v;
+      s=b.getElementsByTagName(e)[0];
       s.parentNode.insertBefore(t,s)
     }(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '1493698618370413');
@@ -46,32 +47,27 @@
       min-height: 100vh;
       margin: 0;
     }
-
     .card {
       background: white;
       border-radius: 25px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.1);
       max-width: 360px;
-      padding: 30px 22px;
+      padding: 30px 25px;
       text-align: center;
     }
-
     h2 {
       margin-bottom: 15px;
       color: #222;
     }
-
     p {
       color: #555;
       margin: 10px 0;
       line-height: 1.6;
     }
-
     .highlight {
       font-weight: bold;
       color: #000;
     }
-
     .btn {
       display: inline-block;
       margin-top: 25px;
@@ -84,11 +80,9 @@
       text-decoration: none;
       transition: 0.3s ease;
     }
-
     .btn:hover {
       background: #218838;
     }
-
     .disclaimer {
       font-size: 12px;
       color: #777;
@@ -97,20 +91,21 @@
     }
   </style>
 </head>
+
 <body>
   <div class="card">
-    <h2>Market Study Hub</h2>
-    <p>📊 <span class="highlight">Learn How Market Analysis Works</span></p>
-    <p>Discover how professionals identify setups, manage risk, and plan trades through practical examples.</p>
-    <p>🎯 <span class="highlight">Access Free Daily Educational Lessons</span> explaining key market concepts step by step.</p>
-    <p>💡 Join a growing community of learners improving their understanding of Forex and market behavior — 100% free.</p>
-    
+    <h2>Chart Learning Hub</h2>
+    <p>📊 <span class="highlight">Understand How Chart Patterns Work</span></p>
+    <p>Explore visual examples showing how structures and decision points are analyzed.</p>
+    <p>🎯 <span class="highlight">Access Free Lessons Daily</span> to improve your pattern recognition and planning skills.</p>
+    <p>💡 Join a growing learning community — 100% free and purely educational.</p>
+
     <a class="btn" href="https://t.me/+bWpfDC7rZugwNWE0" target="_blank" onclick="fbq('track', 'Lead');">
-      👉 Start Learning Now (Free)
+      Explore Free Lessons
     </a>
 
     <p class="disclaimer">
-      📘 Educational content only. Market Study Hub does not offer financial advice, investment guidance, or trading services.
+      📘 Educational content only. No financial or investment advice.
     </p>
   </div>
 </body>
