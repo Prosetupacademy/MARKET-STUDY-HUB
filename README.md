@@ -106,7 +106,7 @@
     <p>💡 Join a growing community of learners improving their understanding of Forex and market behavior — 100% free.</p>
     
     <a class="btn" href="https://t.me/+bWpfDC7rZugwNWE0" target="_blank" onclick="fbq('track', 'Lead');">
-      Explore Free Lessons
+      👉 Start Learning Now (Free)
     </a>
 
     <p class="disclaimer">
